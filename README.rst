@@ -1,4 +1,4 @@
-Momoko
+wsclient
 ======
 
 An Websocket client for Tornado_.
